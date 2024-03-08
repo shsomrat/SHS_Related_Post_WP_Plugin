@@ -27,13 +27,6 @@ This WordPress plugin adds a section of related posts at the end of each post's 
 
 - No additional configuration is required. The plugin uses default settings to display related posts.
 
-## Screenshots
-
-![Screenshot 1](screenshot-1.png)
-*Caption for screenshot 1.*
-
-![Screenshot 2](screenshot-2.png)
-*Caption for screenshot 2.*
 
 ## Frequently Asked Questions
 
